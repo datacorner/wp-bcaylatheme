@@ -1,0 +1,78 @@
+a {
+    color: #b21b55;
+	}
+
+#botmenu {
+     background: url(../images/rd-menu.png) repeat-x;
+	}
+
+#submenu li {
+    text-shadow: 1px 1px 0px #860706;
+	}
+
+#submenu li ul {
+	background:#b21b55;
+	}
+	
+#submenu li ul li a, #submenu li ul li a:link, #submenu li ul li a:visited{
+	border-bottom:1px solid #A50B09	
+	}
+	
+#searchsubmit {
+	background:#b21b55
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #840505;
+    color: #AB0B09;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #E80909;
+	}
+
+.entry a:hover {
+    color: #B70909;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #AB0B09;	
+	}
+	
+.sidebox ul li a:hover {
+    color: #E80909;
+}
+		
+ol.commentlist li .reply a {
+    background: #C40303;
+    border: 1px solid #960404;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #B70909;
+	}	
+	
+#commentform a {
+    color: #B70909;
+	}	
+
+#respond input#commentSubmit {
+    background: #C40303;
+    border: 1px solid #960404;
+	}
+
+
+/* changer ici la couleur du footer fdbd9a;*/
+.bottomcover {
+	background:#D6D4D4; 
+	}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 1px solid #AD0A0A;
+	}
+	
+ul.flex-direction-nav li a {
+	background: url(../images/bg_direction_nav_rd.png) no-repeat 0 0;
+	}	

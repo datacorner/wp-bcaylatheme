@@ -1,0 +1,78 @@
+a {
+    color: #DD6D11;
+	}
+
+#botmenu {
+     background: url(../images/br-menu.png) repeat-x;
+	}
+
+#submenu li {
+    text-shadow: 1px 1px 0px #51351F;
+	}
+
+#submenu li ul {
+	background:#452D1D;
+	}
+	
+#submenu li ul li a, #submenu li ul li a:link, #submenu li ul li a:visited{
+	border-bottom:1px solid #623F22;
+	}
+	
+#searchsubmit {
+	background:#553720;
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #753E11;
+    color: #DD6D11;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #DD6D11;
+	}
+
+.entry a:hover {
+    color: #e56c00;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #DD6D11;	
+	}
+	
+	
+.sidebox ul li a:hover {
+    color: #DD6D11;
+}
+		
+	
+ol.commentlist li .reply a {
+    background: #553720;
+    border: 1px solid #4F331F;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #DD6D11;
+	}	
+	
+#commentform a {
+    color: #DD6D11;
+	}	
+
+#respond input#commentSubmit {
+    background: #553720;
+    border: 1px solid #4F331F;
+	}
+
+.bottomcover {
+	background:#51351F;
+	}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 1px solid #66452C;
+	}
+	
+ul.flex-direction-nav li a {
+	background: url(../images/bg_direction_nav_br.png) no-repeat 0 0;
+	}	

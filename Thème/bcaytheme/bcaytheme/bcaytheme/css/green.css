@@ -1,0 +1,67 @@
+a {
+    color: #568C0B;
+	}
+
+#searchsubmit {
+	background:#457205;
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #386001;
+    color: #598F0B;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #568C0B;
+	}
+
+.entry a:hover {
+    color: #65A20F;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #598F0B;	
+	}
+	
+	
+.sidebox ul li a:hover {
+    color: #65A20F;
+}
+		
+	
+ol.commentlist li .reply a {
+    background: #457205;
+    border: 1px solid #284401;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #568C0B;
+	}	
+	
+#commentform a {
+    color: #568C0B;
+	}	
+
+#respond input#commentSubmit {
+    background: #457205;
+    border: 1px solid #284401;
+	}
+
+.bottomcover {
+	background:#375E01;
+	}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 0px solid #3F6B02;
+	}
+	
+h3.bothead {
+	border-bottom:1px solid #FFFFFF;
+    color: #FFFFFF;	
+	}
+	
+ul.flex-direction-nav li a {
+	background: url(../images/bg_direction_nav_gr.png) no-repeat 0 0;
+	}	

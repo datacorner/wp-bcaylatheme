@@ -1,0 +1,78 @@
+a {
+    color: #0F7AE3;
+	}
+
+#botmenu {
+     background: url(../images/bl-menu.png) repeat-x;
+	}
+
+#submenu li {
+    text-shadow: 1px 1px 0px #085CB0;
+	}
+
+#submenu li ul {
+	background:#0654A3;
+	}
+	
+#submenu li ul li a, #submenu li ul li a:link, #submenu li ul li a:visited{
+	border-bottom:1px solid #0A64BE;
+	}
+	
+#searchsubmit {
+	background:#0657A7;
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #085CB0;
+    color: #0F7AE3;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #0F7AE3;
+	}
+
+.entry a:hover {
+    color: #0A64BE;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #0F7AE3;	
+	}
+	
+	
+.sidebox ul li a:hover {
+    color: #0F7AE3;
+}
+		
+	
+ol.commentlist li .reply a {
+    background: #0657A7;
+    border: 1px solid #04417A;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #0F7AE3;
+	}	
+	
+#commentform a {
+    color: #0F7AE3;
+	}	
+
+#respond input#commentSubmit {
+    background: #0657A7;
+    border: 1px solid #04417A;
+	}
+
+.bottomcover {
+	background:#0657A7;
+	}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 1px solid #0A64BE;
+	}
+	
+ul.flex-direction-nav li a {
+	background: url(../images/bg_direction_nav_bl.png) no-repeat 0 0;
+	}	

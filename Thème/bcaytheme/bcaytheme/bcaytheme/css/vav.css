@@ -1,0 +1,94 @@
+a {
+    color: #40A465;
+}
+
+/* fond du bouton de recherche */
+#searchsubmit {
+	background:#40A465;
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #dbcedf;
+    color: #40A465;
+	font-size: 18px;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #40A465;
+	}
+
+.entry a:hover {
+    color: #40A465;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #40A465;	
+	}
+	
+	
+.sidebox ul li a:hover {
+    color: #40A465;
+}
+		
+	
+ol.commentlist li .reply a {
+    background: #dbcedf;
+    border: 1px solid #04417A;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #40A465;
+}	
+	
+#commentform a {
+    color: #40A465;
+}	
+
+#respond input#commentSubmit {
+    background: #dbcedf;
+    border: 1px solid #04417A;
+}
+
+/* fond du footer */
+.bottomcover {
+	background:#EDEDED ; /*73DB73; */
+}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 1px solid #40A465;
+}
+
+/* Titre des widgets du footer */
+h3.bothead {
+	border-bottom:1px solid #333;
+    color: #333;
+	font-size: 15px;	
+}
+
+.botwid ul li a:link, .botwid ul li a:visited {
+    color: #000;
+    text-decoration: none;
+    padding: 5px 0px 5px 0px;
+    display: block;
+    border-bottom: 0px solid #0C7B89;
+}
+
+.botwid ul li a:hover {
+    color: #40A465;
+}
+
+.botwid  ul#recentcomments li.recentcomments {
+    border-bottom: 0px solid #0C7B89;
+    padding: 5px 0px 5px 0px;
+}
+
+/* sous texte : Par XXX le XXX */
+.pmet {
+	font-style: italic;
+	color: #000;
+	font-size:9px;
+	text-align: left;
+	margin:0px 0px 5px 0px;
+}		

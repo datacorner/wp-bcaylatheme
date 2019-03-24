@@ -1,0 +1,78 @@
+a {
+    color: #B05D80;
+	}
+
+#botmenu {
+     background: url(../images/vav-menu.png) repeat-x;
+	}
+
+#submenu li {
+    text-shadow: 1px 1px 0px #b13e6e;
+	}
+
+#submenu li ul {
+	background:#b13e6e;
+	}
+	
+#submenu li ul li a, #submenu li ul li a:link, #submenu li ul li a:visited{
+	border-bottom:1px solid #B05D80;
+	}
+	
+#searchsubmit {
+	background:#b13e6e;
+	}	
+
+h3.homhead,h3.sidetitl {
+	border-bottom:1px solid #b13e6e;
+    color: #B05D80;	
+	}
+
+.entry a:link,
+.entry a:visited {
+    color: #B05D80;
+	}
+
+.entry a:hover {
+    color: #B05D80;
+	}
+
+.titlemeta a:link,
+.titlemeta a:visited {
+    color: #B05D80;	
+	}
+	
+	
+.sidebox ul li a:hover {
+    color: #B05D80;
+}
+		
+	
+ol.commentlist li .reply a {
+    background: #b13e6e;
+    border: 1px solid #04417A;
+	}	
+	
+ol.commentlist li .comment-meta a {
+  color: #B05D80;
+	}	
+	
+#commentform a {
+    color: #B05D80;
+	}	
+
+#respond input#commentSubmit {
+    background: #b13e6e;
+    border: 1px solid #04417A;
+	}
+
+.bottomcover {
+	background:#b13e6e;
+	}
+
+.botwid ul li a:link, .botwid ul li a:visited,.botwid  ul#recentcomments li.recentcomments   {
+	border-bottom: 1px solid #B05D80;
+	}
+	
+ul.flex-direction-nav li a {
+	background: url(../images/bg_direction_nav_vav.png) no-repeat 0 0;
+	}	
